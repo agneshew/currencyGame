@@ -1,7 +1,10 @@
 # CurrencyGame
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
+
 A simple game of entering the current exchange rate. The course is taken from the API of the European Central Bank. 
+
+The game can be developed by adding a currency selection box (drop-down list) or by entering several chances for the correct answer. In the current phase, the game is only for learning the basics of Angular. 
 
 ## Development server
 
